@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>travel</title>
+</head>
+<body>
+    
+    <header>
+        <div id="page">
+            <img src="./KakaoTalk_20211211_004036565.jpg" alt="logo">
+        </div>
+    
+        <div id="top menu">
+            <a href="#">MAIN MENU</a> I
+            <a href="#">LOGIN</a> I
+            <a href="#">JOIN</a> I
+            <a href="#">SEARCH</a> 
+        </div>
+        <h1>여행을 가고 싶은 당신을 위한 사이트</h1>
+            <ul>
+                
+                <li class="dom">부산</li>
+                <li>제주도</li>
+                <li class="dom">강릉</li>
+                <li>경주</li>
+
+            </ul>
+    </header>
+    <img src="KakaoTalk_20211211_013958028_01.jpg" alt="" class="picture">
+    <img src="KakaoTalk_20211211_014447849.jpg" alt="" class="picture">
+    <img src="KakaoTalk_20211211_015148725.jpg" alt="" class="picture">
+    <img src="KakaoTalk_20211211_015453551.jpg" alt="" class="picture">
+</body>
+
+</html>
